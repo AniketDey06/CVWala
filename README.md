@@ -40,4 +40,4 @@ To start creating your professional CV with CV Wala, follow these simple steps:
    - When you're done, log out securely to protect your account.
 
 ## Link
-https://cvwalaass.000webhostapp.com/
+http://cvwala.infinityfreeapp.com/?i=1
